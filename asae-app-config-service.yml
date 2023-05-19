@@ -9,7 +9,7 @@ spring:
   config:
     activate:
       on-profile: default
-message: "Hello from Default !!"
+message: "Hello from Default v2 !!"
 
 ---
 spring:
