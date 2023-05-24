@@ -1,5 +1,5 @@
-message: "Hello from default"
-profileSpecificMessage: "Profile Message from default v2"
+message: "Hello from default v2"
+profileSpecificMessage: "Profile Message from default"
 valueMessage: "Message from value variable v2"
 
 ---
