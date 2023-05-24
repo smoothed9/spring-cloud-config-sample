@@ -1,6 +1,6 @@
-message: "Hello from default v2"
+message: "Hello from default v3"
 profileSpecificMessage: "Profile Message from default"
-valueMessage: "Message from value variable v2"
+valueMessage: "Message from value variable v3"
 
 ---
 spring:
@@ -14,4 +14,4 @@ spring:
   config:
     activate:
       on-profile: asae
-profileSpecificMessage: "Profile Message from Azure Spring Apps Enterprise "
+profileSpecificMessage: "Profile Message from Azure Spring Apps Enterprise v2"
