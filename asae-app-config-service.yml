@@ -1,6 +1,6 @@
 message: "Hello from default"
-profileSpecificMessage: "Profile Message from default"
-valueMessage: "Message from value variable"
+profileSpecificMessage: "Profile Message from default v2"
+valueMessage: "Message from value variable v2"
 
 ---
 spring:
